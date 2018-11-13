@@ -8,7 +8,7 @@ These are guidance steps for setting up student manager
 - Step 3: [_**Add a group to the module and link it to the qualification**_](http://help.studentmanager.co.za/en/latest/Groups/settingupmodulegroups/)
 - Step 4: [_**Add a curriculum to the qualification**_](http://help.studentmanager.co.za/en/latest/Qualifications/setupcurriculums/)
 - Step 5: [_**Add an intake and link it to the curriculum**_](http://help.studentmanager.co.za/en/latest/Qualifications/addapplicationintake/)
-- Step 6: _**Configure the application wizard**_
+- Step 6: [ **Configure the application wizard** ](http://help.studentmanager.co.za/en/latest/Qualifications/addingnewapplicationwizard/)
 - Step 7: _**Link applications and registrations**_
 - Step 8: _**Set registration dates**_
 - Step 9: _**Register students**_
