@@ -4,7 +4,7 @@ repo_url: https://github.com/AgileSystemsTechnology/StudentManager.Docs
 site_favicon: favicon.ico
 
 pages:
-- Home: index.md
+- Welcome: index.md
 
 - Basic Setup: smbasicsetup/basicsetup.md
 - Add a Qualification: Qualifications/addaqualification.md
