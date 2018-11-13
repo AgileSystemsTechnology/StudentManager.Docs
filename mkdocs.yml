@@ -97,11 +97,14 @@ pages:
 
 
 - More:
+    - Communication: More/settingsupaninbox.md
+    - Communication: More/sendingansms.md
     - Creating and Moving Logs: More/creatingormovinglogs.md
     - Grade and Symbol Settings: More/gradeandsymbolsettings.md
     - Understanding Dates in SM: More/workingwithdates.md
     - Working with names and labels: More/naminglabels.md
     - Settings: More/settingsstudentaccess.md
+    - Settings: More/
 
     
 theme: readthedocs
