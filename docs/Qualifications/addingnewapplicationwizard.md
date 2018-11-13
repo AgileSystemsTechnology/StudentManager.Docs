@@ -128,4 +128,4 @@ Now that we have the basic step set up, you can set more application wizard step
     - Passport Number
   - National ID Number
 - **Custom Field**
-  - This field can be customized to your need
+  - This field can be customized to your institution needs
