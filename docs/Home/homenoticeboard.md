@@ -13,12 +13,12 @@ Follow these steps to create a new post:
       - Enter the description or information.  You can make use of the Styles, Formats, etc. to make your post more appealing.
       - At the bottom of the section you can add a file or a link.  
 
-    - To add a file:
+   - To add a file:
       - Click on **Add Files**
       - Click on **Select Files** and browse your computer for the file to be uploaded
       - Click on **Save**, the file will now be uploaded
 
-    - To add a link:
+   - To add a link:
       - Click on **Add Links**
       - Enter the URL you have copied into the **URL** section
       - Next to **Title** you can give your URL a name
