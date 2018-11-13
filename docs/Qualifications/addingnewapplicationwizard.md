@@ -7,16 +7,17 @@ A wizard is a feature in a package that guides you through a complicated task. A
 The wizard automatically creates the **Basic Information** step as Version 1 for you with the following sections:
 
 Click on **Edit** to edit this information:
- - **Wizard step description**  
-    - Enter information about the Application.  
- - **Email to send to applicant on submission**
-    - Setup a template or general email that will be sent to the applicant once they have submitted their application.  
-    *For Example:  Dear Applicant, thank you for showing interest in this course...
- - **Email to send to applicant once staff review is complete**
-    - Setup a template or general email that will automatically be sent to the applicant after a staff member has reviewed the completed application
-    *For Example:  Dear Applicant, your application has been submitted for review.  We will be in touch soon...
- - **Terms And Conditions**
-    - Set the terms and conditions of your application for the institution here
+
+  - **Wizard step description**  
+     - Enter information about the Application.  
+  - **Email to send to applicant on submission**
+     - Setup a template or general email that will be sent to the applicant once they have submitted their application.  
+     *For Example:  Dear Applicant, thank you for showing interest in this course...
+  - **Email to send to applicant once staff review is complete**
+     - Setup a template or general email that will automatically be sent to the applicant after a staff member has reviewed the completed application
+     *For Example:  Dear Applicant, your application has been submitted for review.  We will be in touch soon...
+  - **Terms And Conditions**
+     - Set the terms and conditions of your application for the institution here
     
  Under the **Misc** section, you will find three checkboxes:
  
