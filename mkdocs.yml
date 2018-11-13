@@ -101,6 +101,7 @@ pages:
     - Grade and Symbol Settings: More/gradeandsymbolsettings.md
     - Understanding Dates in SM: More/workingwithdates.md
     - Working with names and labels: More/naminglabels.md
+    - Settings: More/settingsstudentaccess.md
 
     
 theme: readthedocs
