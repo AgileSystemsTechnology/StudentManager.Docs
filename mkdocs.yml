@@ -15,6 +15,9 @@ pages:
 
 - Login:
     - Password Reset: Login/loginpasswordreset.md
+    
+- Home:
+    - Noticeboard: Home/homenoticeboard.md
    
 - People:
     - Adding People - Staff: People/adding-people.md
