@@ -66,10 +66,10 @@ The next two sections are there to assist if you are planning on using the syste
 
 - **Prospectus Summary**
 	- This is a summary which users will be presented with when they reach your applications page
-	- This is an example of how a completed one would look on a live site - https://smtrainer.studentmanager.co.za/apply
+	- This is an example of how a completed one would look on a live site - [Clink Here](https://smtrainer.studentmanager.co.za/apply)
 - **Prospectus Detail**
 	- This is the detail the user will see before applying
-	- This is an example of the view you would see on the live site, after selecting "More" in the Prospectus summary on the live site - https://smtrainer.studentmanager.co.za/apply/Detail?qualificationId=1396
+	- This is an example of the view you would see on the live site, after selecting "More" in the Prospectus summary on the live site - [Click Here](https://smtrainer.studentmanager.co.za/apply/Detail?qualificationId=1396)
  
 So once everything is filled in, you can then save and all of this detail will be stored and accessible in the system.
 
