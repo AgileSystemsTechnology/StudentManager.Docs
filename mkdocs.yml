@@ -97,11 +97,11 @@ pages:
     - Logs:
         - Creating and Moving Logs: More/creatingormovinglogs.md
     - Settings:
-        - Details: Settings/Details.md
+        - Details: More/Settings/Details.md
         - Student Access: More/settingsstudentaccess.md
         - Grade and Symbol Settings: More/gradeandsymbolsettings.md
         - Global User Settings: More/settingsglobalusersettings.md
-        - Creating an Inbox: Communication/settingsupaninbox.md
+        - Creating an Inbox: More/Settings/settingssetupupaninbox.md
  
 - FAQ:
     - Understanding Dates in SM: FAQ/workingwithdates.md
