@@ -87,24 +87,25 @@ pages:
     - Adding a New Applicant: Applications/addinganewapplicant.md
     - Adding a New Applicant from Existing Users: Applications/addinganewapplicantfromexisting.md
     - Editing the Applications Close date: Applications/changingclosedate.md
-        
-- Communication:
-    - Creating an Inbox: Communication/settingsupaninbox.md
-    - Sending an SMS: Communication/sendingansms.md
 
 - Moodle:
     - Moodle Integration: Moodle/moodleintegration.md
 
 - More:
-    - Creating and Moving Logs: More/creatingormovinglogs.md
-    - Grade and Symbol Settings: More/gradeandsymbolsettings.md
-    - Understanding Dates in SM: More/workingwithdates.md
-    - Working with names and labels: More/naminglabels.md
+    - Communication:
+        - Sending an SMS: More/Communication/sendingansms.md
+    -Logs:
+        - Creating and Moving Logs: More/creatingormovinglogs.md
     - Settings:
         - Details: More/Settings/Details.md
         - Student Access: More/settingsstudentaccess.md
+        - Grade and Symbol Settings: More/gradeandsymbolsettings.md
         - Global User Settings: More/settingsglobalusersettings.md
-
+        - Creating an Inbox: Communication/settingsupaninbox.md
+        
+ - FAQ:
+    - Understanding Dates in SM: More/workingwithdates.md
+    - Working with names and labels: More/naminglabels.md
 
     
 theme: readthedocs
