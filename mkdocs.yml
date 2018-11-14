@@ -28,9 +28,6 @@ pages:
     - Sending Profile Details Update Request: People/userprofileupdatescreate.md
     - Viewing Student Coursewowrk: People/viewingstudentcoursework.md
 
-- People Settings:
-    - Disable requiring ID for creating a user: PeopleSettings/disableidrequired.md
-
 - Modules:
     - Add a Module: Modules/addamodule.md
     - Moving Modules: Modules/movingmodules.md
