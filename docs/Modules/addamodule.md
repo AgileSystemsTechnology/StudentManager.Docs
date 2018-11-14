@@ -1,8 +1,8 @@
 ## **Add a Module** 
 
-- The first step is to open Student Manager>Modules and Select Add
+- The first step is to open Student Manager, select **Modules** and Select **Add**
 - Once the **Module: Add New** modal appears, select the name input box
-- Type in a name for the module, the name on reports will automatically match the name, but can be edited to change what appears on the reports
+- Type in a name for the module, the name on reports will automatically match this name, but can be edited to change what appears on the reports
 - Select the **Code** input box to create a code for the module
 	- Type in a code, this code has an unrestricted character length
 - Select **Content** to add information about the course
