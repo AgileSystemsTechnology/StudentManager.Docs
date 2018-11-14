@@ -104,8 +104,8 @@ pages:
         - Creating an Inbox: Communication/settingsupaninbox.md
         
  - FAQ:
-    - Understanding Dates in SM: More/workingwithdates.md
-    - Working with names and labels: More/naminglabels.md
+    - Understanding Dates in SM: FAQ/workingwithdates.md
+    - Working with names and labels: FAQ/naminglabels.md
 
     
 theme: readthedocs
