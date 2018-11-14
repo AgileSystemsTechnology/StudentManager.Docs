@@ -1,4 +1,4 @@
-## **Communications**
+## **Communication**
 
 ### **Setting up an Inbox**  
 
