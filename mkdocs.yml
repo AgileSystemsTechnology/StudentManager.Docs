@@ -100,8 +100,10 @@ pages:
     - Grade and Symbol Settings: More/gradeandsymbolsettings.md
     - Understanding Dates in SM: More/workingwithdates.md
     - Working with names and labels: More/naminglabels.md
-    - Settings Student Access: More/settingsstudentaccess.md
-    - Settings Global User Settings: More/settingsglobalusersettings.md
+
+- Settings:
+    - Student Access: More/settingsstudentaccess.md
+    - Global User Settings: More/settingsglobalusersettings.md
 
 
     
