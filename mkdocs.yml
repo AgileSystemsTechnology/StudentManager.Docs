@@ -93,7 +93,7 @@ pages:
 
 - More:
     - Communication:
-        - Sending an SMS: Communication/sendingansms.md
+        - Sending an SMS: More/Communication/sendingansms.md
     - Logs:
         - Creating and Moving Logs: More/creatingormovinglogs.md
     - Settings:
