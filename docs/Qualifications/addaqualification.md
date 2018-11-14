@@ -21,7 +21,7 @@
 
 ### **What is a qualification made up of?**
 
-- The overall qualification is the sum total of the smaller learning building blocks which make up the learners knowledge an understanding, in the system, we refer to these as modules, some others may call these subjects
+- The overall qualification is the sum total of the smaller learning building blocks which make up the learners knowledge and understanding, in the system, we refer to these as modules, some others may call these subjects
 
 - The modules are placed inside a learning framework or learning path which allows the learner to be exposed to module content in sequence. We refer to this learning framework as a curriculum
 
@@ -32,7 +32,8 @@
 ## **Adding a Qualification**
 
 - After navigating to qualifications using the main menu, take note of the "Heads Up!" message 
-- After selecting "Add ", a **Qualification: Add New** screen will appear, you will be able to add any required detail here. Below are explanations of the fields so you understand what is required for each one
+- After selecting **"Add"**, a **Qualification: Add New** screen will appear, you will be able to add any required detail here. Below are explanations of the fields so you understand what is required for each one
+
 - **Cancel**
 	- Selecting this will exit without saving any changes
 - **Save**
