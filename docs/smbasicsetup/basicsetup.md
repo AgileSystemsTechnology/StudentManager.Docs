@@ -13,4 +13,3 @@ These are guidance steps for setting up student manager
 - Step 8: _**Set registration dates**_
 - Step 9: _**Register students**_
 - Step 10: _**Register students modules**_
-
