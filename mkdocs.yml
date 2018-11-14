@@ -95,7 +95,7 @@ pages:
     - Communication:
         - Sending an SMS: More/Communication/sendingansms.md
     - Logs:
-        - Creating and Moving Logs: More/creatingormovinglogs.md
+        - Creating and Moving Logs: More/Logs/creatingormovinglogs.md
     - Settings:
         - Details: More/Settings/Details.md
         - Student Access: More/settingsstudentaccess.md
