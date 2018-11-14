@@ -93,11 +93,11 @@ pages:
 
 - More:
     - Communication:
-        - Sending an SMS: More/Communication/sendingansms.md
+        - Sending an SMS: Communication/sendingansms.md
     -Logs:
         - Creating and Moving Logs: More/creatingormovinglogs.md
     - Settings:
-        - Details: More/Settings/Details.md
+        - Details: Settings/Details.md
         - Student Access: More/settingsstudentaccess.md
         - Grade and Symbol Settings: More/gradeandsymbolsettings.md
         - Global User Settings: More/settingsglobalusersettings.md
