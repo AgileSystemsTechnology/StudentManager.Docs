@@ -1,4 +1,6 @@
-## **Institution Details**
+## **Settings**
+
+### **Institution Details**
 
 Here you can capture or change the Institution details:
 
