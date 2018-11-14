@@ -104,6 +104,7 @@ pages:
     - Understanding Dates in SM: More/workingwithdates.md
     - Working with names and labels: More/naminglabels.md
     - Settings: More/settingsstudentaccess.md
+    - Settings: More/settingsglobalusersettings.md
 
     
 theme: readthedocs
