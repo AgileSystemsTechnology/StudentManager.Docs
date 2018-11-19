@@ -95,6 +95,8 @@ pages:
         - Sending an SMS: More/Communication/sendingansms.md
     - Logs:
         - Creating and Moving Logs: More/Logs/creatingormovinglogs.md
+    - Edu.Dex:
+        - What is Edu.dex: More/Edu.Dex/Edu.Dex.md
     - Settings:
         - Details: More/Settings/Details.md
         - Student Access: More/settingsstudentaccess.md
