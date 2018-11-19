@@ -5,7 +5,6 @@ site_favicon: favicon.ico
 
 nav:
 - Welcome: index.md
-
 - Basic Setup: smbasicsetup/basicsetup.md
 - Add a Qualification: Qualifications/addaqualification.md
 - Add a Module: Modules/addamodule.md
