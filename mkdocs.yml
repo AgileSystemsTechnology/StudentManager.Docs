@@ -64,6 +64,7 @@ pages:
     - Qualification Application Overview: Qualifications/application.md
     - Adding a New Application Wizard: Qualifications/addingnewapplicationwizard.md
     - Adding a Application Wizard Section or Step: Qualifications/addingsectionstoapplicationwizardsteps.md
+    - Duplicating a Wizard: Qualifications/DuplicatingWizard.md
 
 - Registrations:
     - Registering Modules From Student Profile: Registration/registeringlearnermodulesfromstudentprofile.md
