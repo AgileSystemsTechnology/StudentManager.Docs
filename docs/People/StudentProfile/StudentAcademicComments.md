@@ -1,4 +1,4 @@
-##**Academic Comments**
+## **Academic Comments**
 
 Comments can be personlised for each student on their personal marks.  These comments will also display on the Results Notificaiton report.
 
