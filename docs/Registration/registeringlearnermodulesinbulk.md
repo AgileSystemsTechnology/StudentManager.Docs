@@ -7,16 +7,18 @@
  - Co-requisites
  - Number of modules which should be passed to continue to the next level
  
-*Please Note that this feature uses the qualifications registration dates, "group scope dates" settings, t know which groups to display*
+_*Please Note that this feature uses the qualifications registration dates, "group scope dates" settings, to know which groups to display*_
 
 ### **Navigation and setup**
-- After log in, select Registrations on the main menu
-- On the registrations page, select Bulk Registration
-- After the page loads, If the campus is correct, select the qualification drop-down to choose the qualification
-- Select the intake, the screen on the right will update to match the selected intake
+
+- After log in, select **Registrations** on the main menu
+- On the registrations page, select **Bulk Registration**
+- After the page loads, If the campus is correct, select the **qualification** drop-down to choose the qualification
+- Select the **intake**, the screen on the right will update to match the selected intake
 - You are now ready to begin selecting students and modules
 
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**](https://www.iorad.com/player/124100/Navigating-to-Bulk-Registration)
+
 
 ### **Additional setup used for this example**
 
@@ -30,13 +32,14 @@
 
 - Select the students who you would like to register
 - Choose the modules groups which you would like them to be in
-- Then select "Register"
+- Then select **Register**
 - A registration confirmation modal screen will appear to let you know what errors have been found, this included a check to see if the student is already registered or if they have already completed the module
-- Select Register ﻿ if you are sure, if you would like to make any edits, select cancel
+- Select **Register** if you are sure, if you would like to make any edits, select **cancel**
 - After registration is completed you will be returned to the Registrations page and you will see that the finalised column value has increased, i.e. it has more finalised module registrations
 - Select the number value, to view the students
 - Any of the students listed can be selected to view their profile
-- If you don't want to view their profiles, select close
+- If you don't want to view their profiles, select **close**
 
 #### **Tutorial**
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**](https://www.iorad.com/player/124098/Bulk-Registering-Students)
+
