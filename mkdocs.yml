@@ -26,8 +26,9 @@ pages:
     - Bulk Activation Link: People/bulkactivationlinks.md
     - Set up for Details Update Requests: People/userprofiledetailsupdatesetup.md
     - Sending Profile Details Update Request: People/userprofileupdatescreate.md
+    
     - Student Profile:
-        - Coursework: View: People/viewingstudentcoursework.md
+        - Coursework View: People/viewingstudentcoursework.md
 
 - Modules:
     - Add a Module: Modules/addamodule.md
