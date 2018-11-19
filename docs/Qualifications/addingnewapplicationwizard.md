@@ -2,6 +2,8 @@
 
 A wizard is a feature in a package that guides you through a complicated task. A popular use of wizards in general purpose packages is to take you, step by step, through the process of setting up a document. This wizard guides you through the stages involved in setting up an application.
 
+After the setup is complete, you can copy your wizard to multiple qualifications, without having to re-create it again.  To do this, click [Duplicating Wizard](http://help.studentmanager.co.za/en/latest/Qualifications/DuplicatingWizard/)
+
 ### **Configuring the Application Wizard process**
 
 The wizard automatically creates the **Basic Information** step as Version 1 for you with the following sections:
