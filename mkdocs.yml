@@ -28,6 +28,7 @@ pages:
     - Sending Profile Details Update Request: People/userprofileupdatescreate.md
     - Student Profile:
         - Coursework View: People/viewingstudentcoursework.md
+        - Academic Comments: People/StudentProfile/StudentAcademicComments.md
 
 - Modules:
     - Add a Module: Modules/addamodule.md
