@@ -38,7 +38,7 @@ Next to the **Search for user box**:  enter the name of the existing student and
   - Enter the following details:
     - **Campus:** If you have more than one campuses set up, select the correct campus in which you want to enroll the student.
     - **Qualification:** Select the qualification in which you would like the student be enrolled under
-    - **Intake:*** Select the intake of when the student will start his/her studies.
+    - **Intake:** Select the intake of when the student will start his/her studies.
     - Click on **Apply**
 
 Now that the student is on the system, we can start the registration process.  Click [HERE](http://help.studentmanager.co.za/en/latest/Registration/registeringlearnermodulesfromreg/) to navigate to the registration help guide.
