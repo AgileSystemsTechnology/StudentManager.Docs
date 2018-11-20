@@ -112,5 +112,6 @@ pages:
 - FAQ:
     - Understanding Dates in SM: FAQ/workingwithdates.md
     - Working with names and labels: FAQ/naminglabels.md
+    - One user with two roles as Staff and Student: FAQ/OneUserTwoRoles.md
 
 theme: readthedocs
