@@ -65,6 +65,10 @@ pages:
     - Adding a New Application Wizard: Qualifications/addingnewapplicationwizard.md
     - Adding a Application Wizard Section or Step: Qualifications/addingsectionstoapplicationwizardsteps.md
     - Duplicating a Wizard: Qualifications/DuplicatingWizard.md
+    
+- Applications:
+    - Applications Overview: Applications/Overview.md
+    - Adding a New Applicant:  Applications/addinganewapplicant.md
 
 - Registrations:
     - Registering Modules From Student Profile: Registration/registeringlearnermodulesfromstudentprofile.md
@@ -87,7 +91,6 @@ pages:
 
 - Applicants:
     - Adding a New Applicant: Applications/addinganewapplicant.md
-    - Adding a New Applicant from Existing Users: Applications/addinganewapplicantfromexisting.md
     - Editing the Applications Close date: Applications/changingclosedate.md
 
 - Moodle:
