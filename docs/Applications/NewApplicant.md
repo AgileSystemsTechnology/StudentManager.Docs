@@ -11,18 +11,18 @@ _Note: The application can be either done by you or by the student, online.  Thi
 
 Navigate to the **Applications** tab from the main menu and click on **New Applicant**
 
-#### **Under the **User Details**
+#### **Under the User Details**
 Select **New Applicant** to start a new application.  (a user that is not yet on the system)
 	- Enter the following details:
-    - **First Name:**	The first name of the applicant
+    - **First Name:** The first name of the applicant
     - **Last Name:** The last name of the applicant
     - **Email:** The email address of the applicant. (this email will also be the primary email that the student will use to log into student manager later on)
 
-#### Under the **Intake**
+#### **Under the Intake**
   - Enter the following details:
-    - **Campus:**	If you have more than one campuses set up, select the correct campus in which you want to enroll the student.
-    - **Qualification:**Select the qualification in which you would like the student be enrolled under
-    - **Intake:**	Select the intake of when the student will start his/her studies.
+    - **Campus:** If you have more than one campuses set up, select the correct campus in which you want to enroll the student.
+    - **Qualification:** Select the qualification in which you would like the student be enrolled under
+    - **Intake:** Select the intake of when the student will start his/her studies.
     - Click on **Apply**
 
 ### **Existing User**
@@ -32,7 +32,7 @@ Next to the **Search for user box**:  enter the name of the existing student and
 
 #### Under the **Intake**
   - Enter the following details:
-    - **Campus:**	If you have more than one campuses set up, select the correct campus in which you want to enroll the student.
+    - **Campus:** If you have more than one campuses set up, select the correct campus in which you want to enroll the student.
     - **Qualification:** Select the qualification in which you would like the student be enrolled under
     - **Intake:*** Select the intake of when the student will start his/her studies.
     - Click on **Apply**
