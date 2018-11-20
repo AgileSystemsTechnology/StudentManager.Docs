@@ -90,10 +90,6 @@ pages:
 - Leads:
     - Navigation: Leads/leadsnavigation.md
 
-- Applicants:
-    - Adding a New Applicant: Applications/addinganewapplicant.md
-    - Editing the Applications Close date: Applications/changingclosedate.md
-
 - Moodle:
     - Moodle Integration: Moodle/moodleintegration.md
 
