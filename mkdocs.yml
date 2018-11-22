@@ -100,6 +100,7 @@ pages:
         - Creating and Moving Logs: More/Logs/creatingormovinglogs.md
     - Edu.Dex:
         - What is Edu.dex: More/Edu.Dex/Edu.Dex.md
+        - Edu.Dex Errors: More/Edu.Dex/Edu.DexErrors.md
     - Settings:
         - Details: More/Settings/Details.md
         - Student Access: More/settingsstudentaccess.md
