@@ -29,6 +29,7 @@ pages:
 - Student Profile:
     - Coursework View: People/viewingstudentcoursework.md
     - Academic Comments: People/StudentProfile/StudentAcademicComments.md
+    - Exempted Modules: People/StudnetProfile/ExemptedModules.md
 
 - Modules:
     - Add a Module: Modules/addamodule.md
