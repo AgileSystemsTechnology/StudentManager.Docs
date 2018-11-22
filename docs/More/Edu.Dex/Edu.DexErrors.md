@@ -29,3 +29,5 @@ All student errors that is shown in the output form can be either fixed from the
     - Here you can set the **Achievement Type** to:  Distance Learning, Distance Learning at more than one Provider, Mixed Mode, Other, Previous Achievement, Residential (Contact) at more than one Provider, Residential Learning, RPL for Access to Qualification, RPL for Complete Qualification, RPL for Credits or Advanced Standing, RPL for Designation, RPL for Unknown Purpose, Self-study or Work Place Learning
   - The learner is not enrolled into any modules for this qualification. Therefore, their FTE value cannot be calculated. 
     - This means that the student is enrolled into a Qualification but never registered for any modules.  Register the student for modules.  See [here](http://help.studentmanager.co.za/en/latest/Registration/registeringlearnermodulesfromreg/) on how to do this
+
+**_More to follow_**
