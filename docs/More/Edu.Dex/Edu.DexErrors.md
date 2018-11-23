@@ -4,8 +4,7 @@
 
 All student errors that is shown in the output form can be either fixed from the student profile page or by clicking on the **Fix** button underneath each error
 
- - **Personal Details**
- 
+  - **Personal Details**
     - You must enter the person's 'Equity' 
       - Under **Edu Dex Fields & Disability Rating** subsection, enter the person's **equity code**:  Black African, Coloured, Indian / Asian, Other or White 
     - You must enter the person's 'Socio-Economic' status 
@@ -20,12 +19,10 @@ All student errors that is shown in the output form can be either fixed from the
       - Enter the user's ID number.  If the person have a passport - change the **CHE Identifyer** under **CHE required fields** to Passport.
 
   - **Address Details**
-
     - The person's 'Postal Address Post Code' is required. Please enter a four digit number
       - Under the **Address** subsection, enter the postal information and or post code 
  
   - **Qualification Details**
-  
     - This students 'Enrolled Date' cannot be after qualification's 'End Date'
       - Under the **Qualification** page from the main menu bar, **View** the correct Qualification and click on **Details**
       - At the bottom of the Details page you will find your **CHE accreditation Code, Start and End date**.  This date must be after the intake you are currently in.  If the date shows an earlier date (before the current intake date), EduDex will not accept the data as the institution do not have an active accreditation, at the time the student registered, I.e. enrolment date
