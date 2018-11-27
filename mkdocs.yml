@@ -104,6 +104,8 @@ pages:
         - Creating and Moving Logs: More/Logs/creatingormovinglogs.md
     - Companies:
         - Adding a Company and Company Types: More/Companies/AddingCompanies.md
+    - Tags:
+        - Tagg Overview:  More/Tags/Tags.md
     - Edu.Dex:
         - What is Edu.dex: More/Edu.Dex/Edu.Dex.md
         - Edu.Dex Errors: More/Edu.Dex/Edu.DexErrors.md
