@@ -25,7 +25,7 @@ Here we have all the personal and detailed information regarding the employee an
     - CESM: Choose the subject from any of the drop own list
     
 - **System Access**
-  - Here you can set the user's access roles.  Click on the **Change this** button to all the staff member to view either all modules or only the modules the staff member have been allocated to as lecturer or an assessor.
+  - This feature allows you to give access to staff who work in different areas of your institution. i.e., Finance, Library and Student Academic affairs.  Click on the **Change this** button to allow the staff member to view either all modules or only the modules the staff member have been allocated to as lecturer or an assessor.
   - To set this for a group of people, follow the instructions from the Settings page (http://help.studentmanager.co.za/en/latest/More/Settings/rolegroups/)
     - Click on **Edit** to change the settings
     - If groups have been set up, select any of the groups displayed or toggle between subgroups to allow or disallow certain functions
