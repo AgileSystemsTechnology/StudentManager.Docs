@@ -30,6 +30,9 @@ pages:
     - Coursework View: People/viewingstudentcoursework.md
     - Academic Comments: People/StudentProfile/StudentAcademicComments.md
     - Exempted Modules: People/StudentProfile/ExemptedModules.md
+    
+- Staff Profile:
+    - Overview: People/Staff Profile/staffprofile.md
 
 - Modules:
     - Add a Module: Modules/addamodule.md
@@ -99,6 +102,8 @@ pages:
         - Sending an SMS: More/Communication/sendingansms.md
     - Logs:
         - Creating and Moving Logs: More/Logs/creatingormovinglogs.md
+    - Companies:
+        - Adding a Company and Company Types: More/Companies/AddingCompanies.md
     - Edu.Dex:
         - What is Edu.dex: More/Edu.Dex/Edu.Dex.md
         - Edu.Dex Errors: More/Edu.Dex/Edu.DexErrors.md
