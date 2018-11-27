@@ -23,12 +23,14 @@ Here we have all the personal and detailed information regarding the employee an
     - Year:  Enter the year of which the journal was published
     - Volume:  Enter the volume or issue number of the journal
     - CESM: Choose the subject from any of the drop own list
+    
 - **System Access**
   - Here you can set the user's access roles.  Click on the **Change this** button to all the staff member to view either all modules or only the modules the staff member have been allocated to as lecturer or an assessor.
   - To set this for a group of people, follow the instructions from the Settings page (http://help.studentmanager.co.za/en/latest/More/Settings/rolegroups/)
     - Click on **Edit** to change the settings
     - If groups have been set up, select any of the groups displayed or toggle between subgroups to allow or disallow certain functions
     - Click on **Save** to commit the changes
+    
 - **Employement Records**
     - Before you can add an employee record, you first need to have a company set up.  To do this, follow these step by step instructions:  
   - The company data is used in two ways:
@@ -54,6 +56,7 @@ Here we have all the personal and detailed information regarding the employee an
     - If the user is not from the same institution, enter the name of the Company where the user is employed
   - Is Internal
     - This box is used to indicated records of employment at the institution.  For example: if you were trying to keep a record of each institution the staff member has worked at in the past, then all the records could be captured here but only the ones for their employment at the current institution wil be ticked as "Is Internal"
+    
 - **Digital Signature**
   - Here you can upload a digital signature of an employee
      - Click on **Upload Signature**
