@@ -123,5 +123,6 @@ pages:
     - Understanding Dates in SM: FAQ/workingwithdates.md
     - Working with names and labels: FAQ/naminglabels.md
     - One user with two roles as Staff and Student: FAQ/OneUserTwoRoles.md
+    - "Not Part of Curriculum": FAQ/NotPartOfCurriculum.md
 
 theme: readthedocs
