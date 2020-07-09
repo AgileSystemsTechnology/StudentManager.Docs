@@ -1,26 +1,31 @@
-## **Password Reset** 
 
-#### Step 1. Go to your institution login page
+# How do I log into my institution's Student Manager site?
 
-![alt text][image 1]
+This will cover how to log into your site if you have forgotten how to find it
 
-[image 1]: https://image.ibb.co/diBXxz/loginpage.png "Login Page"
 
-#### Step 2. Select forgot password
+**Step 1.**
 
-![alt text][image 2]
+ To find your institution's site, select the link below  
+[https://app.studentmanager.co.za/Account/Institution](https://app.studentmanager.co.za/Account/Institution)  
+  
+**Step 2.** Fill in your email address and select "continue"  
 
-[image 2]: https://image.ibb.co/hWMqHz/forgotpassword.png "Forgot Password"
+![](https://downloads.intercomcdn.com/i/o/104096997/916c54da66b0894347a60d97/image.png)
 
-#### Step 3. Enter your email address, which you usually use to log into the site
-#### Step 4. Select the reset button
+**Step 3.** You will then be directed your site to login  
 
-![alt text][image 3]
+![](https://downloads.intercomcdn.com/i/o/104098092/11194379a050c0dc85fcd139/image.png)
 
-[image 3]: https://image.ibb.co/gPJgPe/resetpassword.png "Reset Password"
+**Step 4.** Fill in your password and login
 
-- If the account exists an email will be sent to the email adress which was caputured in the previous step
-- - Select the link in the email
-- Your browser will open and present you with the ability to set the new password
-- Capture the password in the input and select set password
-- You can now login with your email address and new password
+For future reference, bookmark the page or take note of the website's address/URL, especially the part before .[studentmanager.co.za](http://studentmanager.co.za/)
+
+See the example below
+
+![](https://downloads.intercomcdn.com/i/o/104098896/f6e0f901f38b9898668b72b1/image.png)
+
+In this case it's test, but your institutions "domain name" will appear here
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzgyOTU4MjM5XX0=
+-->
