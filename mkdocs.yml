@@ -14,5 +14,6 @@ pages:
 
 - People:
     - Finding People: People/finding-people.md
+    - User Account Activation: People/activationlinks.md
 
 theme: readthedocs
