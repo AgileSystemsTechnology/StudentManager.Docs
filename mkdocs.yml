@@ -18,15 +18,6 @@ pages:
 - Home:
     - Noticeboard: Home/homenoticeboard.md
    
-- People:
-
-
-- My Courses:
-    
-    
-- Qualifications:
-    
-
 - Modules:
     - Add a Module: Modules/addamodule.md
     - Moving Modules: Modules/movingmodules.md
