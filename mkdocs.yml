@@ -19,20 +19,13 @@ pages:
     - Noticeboard: Home/homenoticeboard.md
    
 - People:
-    - Adding People - Staff: People/adding-people.md
-    - Staff/Employee System Access: People/employeesystemaccess.md
-    - Finding People: People/finding-people.md
-    - Bulk Activation Link: People/bulkactivationlinks.md
-    - Set up for Details Update Requests: People/userprofiledetailsupdatesetup.md
-    - Sending Profile Details Update Request: People/userprofileupdatescreate.md
 
-- Student Profile:
-    - Coursework View: People/viewingstudentcoursework.md
-    - Academic Comments: People/StudentProfile/StudentAcademicComments.md
-    - Exempted Modules: People/StudentProfile/ExemptedModules.md
+
+- My Courses:
     
-- Staff Profile:
-    - Overview: People/Staff Profile/staffprofile.md
+    
+- Qualifications:
+    
 
 - Modules:
     - Add a Module: Modules/addamodule.md
@@ -93,9 +86,6 @@ pages:
 
 - Leads:
     - Navigation: Leads/leadsnavigation.md
-
-- Moodle:
-    - Moodle Integration: Moodle/moodleintegration.md
 
 - More:
     - Communication:
