@@ -24,12 +24,12 @@ Follow these steps to create a new post:
    <a href="https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png)
    </a>
 
-	    - Click on **Add Files**
-	     - Click on **Select Files** and browse your computer for the file to be uploaded
-	      - Click on **Save**, the file will now be uploaded
+- Click on **Add Files**
+	- Click on **Select Files** and browse your computer for the file to be uploaded
+	 - Click on **Save**, the file will now be uploaded
 
-		- To add a link:
-		     - Click on **Add Links**
+ - To add a link:
+	- Click on **Add Links**
 		     - Enter the URL you have copied into the **URL** section
 		     - Next to **Title** you can give your URL a name
 		     - Click on **Save**, the url are now being uploaded
@@ -50,8 +50,7 @@ You can now **Stop Managing Posts**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4MTU5MTQsODA1MTgyMjA4LDE3Nj
-k4Mzk3ODMsMTgxOTI5MzI1Niw2NTc1NTc0MDAsLTEwMTA2NDI5
-NzgsLTcyMjUxMjM3OSw5NjA5OTAyNTAsLTEzMTM4MjI4MzFdfQ
-==
+eyJoaXN0b3J5IjpbOTA4MTQ3ODU0LDgwNTE4MjIwOCwxNzY5OD
+M5NzgzLDE4MTkyOTMyNTYsNjU3NTU3NDAwLC0xMDEwNjQyOTc4
+LC03MjI1MTIzNzksOTYwOTkwMjUwLC0xMzEzODIyODMxXX0=
 -->
