@@ -21,6 +21,9 @@ Follow these steps to create a new post:
       - At the bottom of the section you can add a file or a link.  
 
    - To add a file:
+   <a href="https://studentmanager.blob.core.windows.net/resources/bb9c9b74-cd6d-49c4-a2d5-88547860df73.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/bb9c9b74-cd6d-49c4-a2d5-88547860df73.png)
+   </a>
+
       - Click on **Add Files**
       - Click on **Select Files** and browse your computer for the file to be uploaded
       - Click on **Save**, the file will now be uploaded
@@ -36,7 +39,7 @@ _*Note: You can use the **{1}** to display the attached files on the body of you
   - Click **Save** to save your notice
   Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTgzOTc4MywxODE5MjkzMjU2LDY1Nz
-U1NzQwMCwtMTAxMDY0Mjk3OCwtNzIyNTEyMzc5LDk2MDk5MDI1
-MCwtMTMxMzgyMjgzMV19
+eyJoaXN0b3J5IjpbMTQwODY1MTg2OCwxNzY5ODM5NzgzLDE4MT
+kyOTMyNTYsNjU3NTU3NDAwLC0xMDEwNjQyOTc4LC03MjI1MTIz
+NzksOTYwOTkwMjUwLC0xMzEzODIyODMxXX0=
 -->
