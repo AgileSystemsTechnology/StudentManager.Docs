@@ -1,4 +1,4 @@
-## **How to find an Employee, Student, Applicant or Lead**
+## **How to find an Employee, Student, Applicant or  Lead by their detailse**
 
 How to find a user and view their profile. 
 
@@ -10,5 +10,6 @@ How to find a user and view their profile.
 
 [![](https://studentmanager.blob.core.windows.net/resources/d5068876-79c5-458a-aa92-1ab25ba80b74.png)](https://studentmanager.blob.core.windows.net/resources/d5068876-79c5-458a-aa92-1ab25ba80b74.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzI2Mzg4NiwtNjM3NDE3NDBdfQ==
+eyJoaXN0b3J5IjpbMTUyMjY2MTQ2LC00MjMyNjM4ODYsLTYzNz
+QxNzQwXX0=
 -->
