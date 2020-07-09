@@ -5,7 +5,8 @@
 _This feature allows for the bulk or individual email notifications to give users access to the system
 
 -   Log in and select the **People** tab from the **Main Menu Bar**
--   Select the **Send Activation Links**
+-   Select the **Send Activation Links** link
+-   
 -   When the Send Activation Links page loads, select the **Search** link
 -   Select the **_search input box_**_,_ once the **_Select Student_** modal loads
 -   In the search input, type the first three characters of the users First Name, Last Name or User Code
@@ -21,5 +22,5 @@ _This feature allows for the bulk or individual email notifications to give user
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3OTMzNzE0XX0=
+eyJoaXN0b3J5IjpbLTg1NjI0NDE1MywyMjc5MzM3MTRdfQ==
 -->
