@@ -6,7 +6,7 @@ How to find a user and view their profile, searching their detail.
 -   Click on the **search** input box
 -   Type in the first three characters or more of their ID number, First Name, Last Name or Student/Employee Code
 -   Click on Search
--   In line with your search results, click on **View** found on the right hand side of your screen to preview the student or staff profile
+-   In line with your search results, click on **View** found on the right-hand side of your screen to view the student or staff profile
 
 [![](https://studentmanager.blob.core.windows.net/resources/d5068876-79c5-458a-aa92-1ab25ba80b74.png)](https://studentmanager.blob.core.windows.net/resources/d5068876-79c5-458a-aa92-1ab25ba80b74.png)
 
@@ -20,9 +20,10 @@ How to find a user and view their profile, searching with tags.
 -   Click on the **Tags** tab
 -   Choose a user context using the tabs **Student**, **Employee**, **Leads** or **Applications**
 -   In the input box, select the tags which have been created and allocated to users
--   Click on **Search**
--   In line with your search results, click on **View** found on the right hand side of your screen to preview the student or staff profile
+-   Click on the  **Search** button
+-   Users with the selected tags will display
+-   In line with your search results, click on **View** found on the right-hand side of your screen to view the student or staff profile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ4MzMxNDAsLTE0NjI4NjY5NywtND
-IzMjYzODg2LC02Mzc0MTc0MF19
+eyJoaXN0b3J5IjpbMjA3MDQ2ODY1LC0xNDYyODY2OTcsLTQyMz
+I2Mzg4NiwtNjM3NDE3NDBdfQ==
 -->
