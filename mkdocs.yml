@@ -5,12 +5,6 @@ site_favicon: favicon.ico
 
 pages:
 - Welcome: index.md
-- Basic Setup: smbasicsetup/basicsetup.md
-- Add a Qualification: Qualifications/addaqualification.md
-- Add a Module: Modules/addamodule.md
-- Add a Group: Groups/settingupmodulegroups.md
-- Add a Curriculum: Qualifications/setupcurriculums.md
-- Add an Intake: Qualifications/addapplicationintake.md
 
 - Login:
     - Password Reset: Login/loginpasswordreset.md
