@@ -28,38 +28,35 @@ See the example below
 
 In this case it's test, but your institutions "domain name" will appear here
 
-# Forgotten Password?
-
-How to reset your password
+## Forgotten Password, Reset Your Password
 
 To reset your password
 
 1.  You must have an **active** **account**. An active is an account which you set up the first time you chose a password to log into your account.
 2.  You need your **active username**. This is the email address which you used to register on the system
 
-## Step 1
+**Step 1**
 
 Navigate to your institution's login page, if you are unsure as to where this is, use this link  
 [https://app.studentmanager.co.za/Account/Institution](https://app.studentmanager.co.za/Account/Institution)
 
-##   
-Step 2
+**Step 2**
 
 Select **Forgot Password  
 **
 
 ![](https://downloads.intercomcdn.com/i/o/187155596/8973ae50f49dccb289f4ff33/Screenshot+2020-02-24+at+09.57.03.png)
 
-## Step 3
+**Step 3**
 
   
 On the password reset page, enter your active username, i.e. email address and select **Reset Password**
 
 ![](https://downloads.intercomcdn.com/i/o/187155821/f57edf864bd1e191a87f9a82/Screenshot+2020-02-24+at+09.58.26.png)
 
-## Step 4
+**Step 4**
 
 You will be emailed a password reset link, check your email for it and then select it and choose your new password
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODIyNTQ0MF19
+eyJoaXN0b3J5IjpbNzg2NTYwNDk1XX0=
 -->
