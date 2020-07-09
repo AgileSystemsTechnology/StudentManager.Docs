@@ -15,7 +15,7 @@ Follow these steps to create a new post:
    <a href="https://studentmanager.blob.core.windows.net/resources/bb9c9b74-cd6d-49c4-a2d5-88547860df73.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/bb9c9b74-cd6d-49c4-a2d5-88547860df73.png)
 </a>   
 
-      - Add a **Title** or heading for your post
+   - Add a **Title** or heading for your post
       - Choose whether you would want to publish this post to staff and students or either or by ticking or unticking the boxes
       - Enter the description or information.  You can make use of the Styles, Formats, etc. to make your post more appealing.
       - At the bottom of the section you can add a file or a link.  
@@ -50,7 +50,8 @@ You can now **Stop Managing Posts**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2Njg2NjM2LDgwNTE4MjIwOCwxNzY5OD
-M5NzgzLDE4MTkyOTMyNTYsNjU3NTU3NDAwLC0xMDEwNjQyOTc4
-LC03MjI1MTIzNzksOTYwOTkwMjUwLC0xMzEzODIyODMxXX0=
+eyJoaXN0b3J5IjpbLTE2MTk2ODI0NDQsODA1MTgyMjA4LDE3Nj
+k4Mzk3ODMsMTgxOTI5MzI1Niw2NTc1NTc0MDAsLTEwMTA2NDI5
+NzgsLTcyMjUxMjM3OSw5NjA5OTAyNTAsLTEzMTM4MjI4MzFdfQ
+==
 -->
