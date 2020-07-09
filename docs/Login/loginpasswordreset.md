@@ -1,26 +1,62 @@
-## **Password Reset** 
 
-#### Step 1. Go to your institution login page
 
-![alt text][image 1]
+## How do I log into my institution's Student Manager site?
 
-[image 1]: https://image.ibb.co/diBXxz/loginpage.png "Login Page"
+This will cover how to log into your site if you have forgotten how to find it
 
-#### Step 2. Select forgot password
 
-![alt text][image 2]
+**Step 1.**
 
-[image 2]: https://image.ibb.co/hWMqHz/forgotpassword.png "Forgot Password"
+ To find your institution's site, select the link below  
+[https://app.studentmanager.co.za/Account/Institution](https://app.studentmanager.co.za/Account/Institution)  
+  
+**Step 2.** Fill in your email address and select "continue"  
 
-#### Step 3. Enter your email address, which you usually use to log into the site
-#### Step 4. Select the reset button
+![](https://downloads.intercomcdn.com/i/o/104096997/916c54da66b0894347a60d97/image.png)
 
-![alt text][image 3]
+**Step 3.** You will then be directed your site to login  
 
-[image 3]: https://image.ibb.co/gPJgPe/resetpassword.png "Reset Password"
+![](https://downloads.intercomcdn.com/i/o/104098092/11194379a050c0dc85fcd139/image.png)
 
-- If the account exists an email will be sent to the email adress which was caputured in the previous step
-- - Select the link in the email
-- Your browser will open and present you with the ability to set the new password
-- Capture the password in the input and select set password
-- You can now login with your email address and new password
+**Step 4.** Fill in your password and login
+
+For future reference, bookmark the page or take note of the website's address/URL, especially the part before .[studentmanager.co.za](http://studentmanager.co.za/)
+
+See the example below
+
+![](https://downloads.intercomcdn.com/i/o/104098896/f6e0f901f38b9898668b72b1/image.png)
+
+In this case it's test, but your institutions "domain name" will appear here
+
+## Forgotten Password, Reset Your Password
+
+To reset your password
+
+1.  You must have an **active** **account**. An active is an account which you set up the first time you chose a password to log into your account.
+2.  You need your **active username**. This is the email address which you used to register on the system
+
+**Step 1**
+
+Navigate to your institution's login page, if you are unsure as to where this is, use this link  
+[https://app.studentmanager.co.za/Account/Institution](https://app.studentmanager.co.za/Account/Institution)
+
+**Step 2**
+
+Select **Forgot Password  
+**
+
+![](https://downloads.intercomcdn.com/i/o/187155596/8973ae50f49dccb289f4ff33/Screenshot+2020-02-24+at+09.57.03.png)
+
+**Step 3**
+
+  
+On the password reset page, enter your active username, i.e. email address and select **Reset Password**
+
+![](https://downloads.intercomcdn.com/i/o/187155821/f57edf864bd1e191a87f9a82/Screenshot+2020-02-24+at+09.58.26.png)
+
+**Step 4**
+
+You will be emailed a password reset link, check your email for it and then select it and choose your new password
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzg2NTYwNDk1XX0=
+-->
