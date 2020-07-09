@@ -14,8 +14,8 @@ How to find a user and view their profile, searching their detail.
 
 How to find a user and view their profile, searching with tags. 
 
-
+[![](https://studentmanager.blob.core.windows.net/resources/c8f5369f-08a1-4824-8291-8b169638a4bf.png)](https://studentmanager.blob.core.windows.net/resources/c8f5369f-08a1-4824-8291-8b169638a4bf.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI4NjY5NywtNDIzMjYzODg2LC02Mz
-c0MTc0MF19
+eyJoaXN0b3J5IjpbLTg3NjY1MTQxNCwtMTQ2Mjg2Njk3LC00Mj
+MyNjM4ODYsLTYzNzQxNzQwXX0=
 -->
