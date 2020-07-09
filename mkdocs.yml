@@ -1,7 +1,7 @@
 site_name: Student Manager Documentation
 site_url: https://www.studentmanager.co.za
 repo_url: https://github.com/AgileSystemsTechnology/StudentManager.Docs
-site_favicon: favicon.ico
+site_favicon: favicon.io
 
 pages:
 - Welcome: index.md
