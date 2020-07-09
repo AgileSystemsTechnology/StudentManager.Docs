@@ -11,6 +11,8 @@ pages:
     
 - Home:
     - Noticeboard: Home/homenoticeboard.md
-   
+
+- People:
+    - Finding People: People/finding-people.md
 
 theme: readthedocs
