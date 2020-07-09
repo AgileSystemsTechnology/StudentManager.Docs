@@ -39,9 +39,9 @@ _*Note: You can use the **{1}** to display the attached files on the body of you
   - Click **Save** to save your notice
 
 
-Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
+		Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MTgyMjA4LDE3Njk4Mzk3ODMsMTgxOT
-I5MzI1Niw2NTc1NTc0MDAsLTEwMTA2NDI5NzgsLTcyMjUxMjM3
-OSw5NjA5OTAyNTAsLTEzMTM4MjI4MzFdfQ==
+eyJoaXN0b3J5IjpbLTUzMjU2OTQyNCw4MDUxODIyMDgsMTc2OT
+gzOTc4MywxODE5MjkzMjU2LDY1NzU1NzQwMCwtMTAxMDY0Mjk3
+OCwtNzIyNTEyMzc5LDk2MDk5MDI1MCwtMTMxMzgyMjgzMV19
 -->
