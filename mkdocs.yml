@@ -1,7 +1,7 @@
 site_name: Student Manager Documentation
 site_url: https://www.studentmanager.co.za
 repo_url: https://github.com/AgileSystemsTechnology/StudentManager.Docs
-site_favicon: favicon.io
+site_favicon: favicon.ico
 
 pages:
 - Welcome: index.md
@@ -18,92 +18,5 @@ pages:
 - Home:
     - Noticeboard: Home/homenoticeboard.md
    
-- Modules:
-    - Add a Module: Modules/addamodule.md
-    - Moving Modules: Modules/movingmodules.md
-    - Searching for a Module: Modules/findingmodules.md
-    - Make a Module inactive i.e. deactivate: Modules/deactivateamodule.md
-    - Viewing deativated modules: Modules/showhideinactivemodules.md
-    - Setting inactive modules to active: Modules/makeinactivemoduleactive.md
-    - Setting up Module Groups: Groups/settingupmodulegroups.md
-    - Adding Employees to Groups: Groups/addemployee.md
-    - Setting Up Assessments: Modules/settingupassessments.md
-    - Assessment Attempts: Modules/assessmentattempts.md
-    - Capturing Assessment Results: Modules/capturingmarks.md
-    - Publishing Assessment Results: Modules/publishingresults.md
-    - Copy Assessments in Bulk: Modules/copyassessmentsinbulk.md
-    - Online Tests: Modules/onlinetests.md
-    - Online Assessment: Modules/onlineassessments.md
-    - Grade Assessments: Modules/grading.md
-    - Adding E-Learning Material: Modules/addinglearningmaterial.md 
-    - Merging Duplicate Modules: Modules/mergingduplicatemodules.md
-
-- Groups:
-    - Setting up Module Groups: Groups/settingupmodulegroups.md
-    - Adding Employees to Groups: Groups/addemployee.md
-
-- Qualifications:
-    - Add a Qualification: Qualifications/addaqualification.md
-    - Add a Module: Modules/addamodule.md
-    - Add a Group: Groups/settingupmodulegroups.md
-    - Add a Curriculum: Qualifications/setupcurriculums.md
-    - Add an Intake: Qualifications/addapplicationintake.md
-    - Searching for a Qualification: Qualifications/searchingandviewingaqualification.md
-    - Qualification Application Overview: Qualifications/application.md
-    - Adding a New Application Wizard: Qualifications/addingnewapplicationwizard.md
-    - Adding a Application Wizard Section or Step: Qualifications/addingsectionstoapplicationwizardsteps.md
-    - Duplicating a Wizard: Qualifications/DuplicatingWizard.md
-    - Changing Application Close Date: Qualifications/changingclosedate.md
-    
-- Applications:
-    - Applications Overview: Applications/Overview.md
-    - Adding a New Applicant:  Applications/NewApplicant.md
-
-- Registrations:
-    - Registering Modules From Student Profile: Registration/registeringlearnermodulesfromstudentprofile.md
-    - Registering Module from Registrations: Registration/registeringlearnermodulesfromreg.md
-    - Registering Modules after Applications: Registration/registerintlearnermodulesafterapplication.md
-    - Registration Group dates edit: Registration/registrationgroupdatesedit.md
-    - Registering Modules for students in bulk: Registration/registeringlearnermodulesinbulk.md
-    - Reversing a Module Registration: Registration/reversingmoduleregistration.md
-
-- Reports:
-    - Print a Lecture Time Table: Reports/printalecturetimetable.md
-    - Print a Student Card: Reports/printingastudentcard.md
-    - Printing Academic Transcripts: Reports/printingacademictranscripts.md
-
-- Calendar:
-    - Create Events: Calendar/createevents.md 
-
-- Leads:
-    - Navigation: Leads/leadsnavigation.md
-
-- More:
-    - Communication:
-        - Sending an SMS: More/Communication/sendingansms.md
-    - Logs:
-        - Creating and Moving Logs: More/Logs/creatingormovinglogs.md
-    - Companies:
-        - Adding a Company and Company Types: More/Companies/AddingCompanies.md
-    - Tags:
-        - Tagg Overview:  More/Tags/Tags.md
-    - Edu.Dex:
-        - What is Edu.dex: More/Edu.Dex/Edu.Dex.md
-        - Edu.Dex Errors: More/Edu.Dex/Edu.DexErrors.md
-    - Settings:
-        - Details: More/Settings/Details.md
-        - Student Access: More/settingsstudentaccess.md
-        - Grade and Symbol Settings: More/gradeandsymbolsettings.md
-        - Module Exemption Rules: More/Settings/ModuleExemptionRules.md
-        - Global User Settings: More/settingsglobalusersettings.md
-        - Communication: More/Settings/communication.md
-        - Role Groups: More/Settings/rolegroups.md
-        - Student Fees: More/Settings/studentfees.md
- 
-- FAQ:
-    - Understanding Dates in SM: FAQ/workingwithdates.md
-    - Working with names and labels: FAQ/naminglabels.md
-    - One user with two roles as Staff and Student: FAQ/OneUserTwoRoles.md
-    - "Not Part of Curriculum": FAQ/NotPartOfCurriculum.md
 
 theme: readthedocs
