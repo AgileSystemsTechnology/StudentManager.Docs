@@ -21,25 +21,27 @@ Follow these steps to create a new post:
       - At the bottom of the section you can add a file or a link.  
 
    - To add a file:
-   <a href="https://studentmanager.blob.core.windows.net/resources/bb9c9b74-cd6d-49c4-a2d5-88547860df73.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/bb9c9b74-cd6d-49c4-a2d5-88547860df73.png)
+   <a href="https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png)
    </a>
 
-      - Click on **Add Files**
-      - Click on **Select Files** and browse your computer for the file to be uploaded
-      - Click on **Save**, the file will now be uploaded
+	      - Click on **Add Files**
+	      - Click on **Select Files** and browse your computer for the file to be uploaded
+	      - Click on **Save**, the file will now be uploaded
 
-   - To add a link:
-      - Click on **Add Links**
-      - Enter the URL you have copied into the **URL** section
-      - Next to **Title** you can give your URL a name
-      - Click on **Save**, the url are now being uploaded
+		   - To add a link:
+		      - Click on **Add Links**
+		      - Enter the URL you have copied into the **URL** section
+		      - Next to **Title** you can give your URL a name
+		      - Click on **Save**, the url are now being uploaded
   
 _*Note: You can use the **{1}** to display the attached files on the body of your notice.  Each number represents the attachments in numerical order._
 
   - Click **Save** to save your notice
-  Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
+
+
+Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODY1MTg2OCwxNzY5ODM5NzgzLDE4MT
-kyOTMyNTYsNjU3NTU3NDAwLC0xMDEwNjQyOTc4LC03MjI1MTIz
-NzksOTYwOTkwMjUwLC0xMzEzODIyODMxXX0=
+eyJoaXN0b3J5IjpbODA1MTgyMjA4LDE3Njk4Mzk3ODMsMTgxOT
+I5MzI1Niw2NTc1NTc0MDAsLTEwMTA2NDI5NzgsLTcyMjUxMjM3
+OSw5NjA5OTAyNTAsLTEzMTM4MjI4MzFdfQ==
 -->
