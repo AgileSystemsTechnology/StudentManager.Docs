@@ -30,9 +30,9 @@ Follow these steps to create a new post:
 
  - To add a link:
 	- Click on **Add Links**
-		     - Enter the URL you have copied into the **URL** section
-		     - Next to **Title** you can give your URL a name
-		     - Click on **Save**, the url are now being uploaded
+	- Enter the URL you have copied into the **URL** section
+	- Next to **Title** you can give your URL a name
+	- Click on **Save**, the url are now being uploaded
   
 _*Note: You can use the **{1}** to display the attached files on the body of your notice.  Each number represents the attachments in numerical order._
 
@@ -50,7 +50,7 @@ You can now **Stop Managing Posts**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MTQ3ODU0LDgwNTE4MjIwOCwxNzY5OD
+eyJoaXN0b3J5IjpbOTY2Njg2NjM2LDgwNTE4MjIwOCwxNzY5OD
 M5NzgzLDE4MTkyOTMyNTYsNjU3NTU3NDAwLC0xMDEwNjQyOTc4
 LC03MjI1MTIzNzksOTYwOTkwMjUwLC0xMzEzODIyODMxXX0=
 -->
