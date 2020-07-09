@@ -211,3 +211,9 @@ MIT
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
+[![File sharing](http://img.youtube.com/vi/Bk7ApAgkeFQ/0.jpg)](http://www.youtube.com/watch?v=Bk7ApAgkeFQ "learner file sharing")
+
+<a href="https://studentmanager.co.za/" rel="My Course Year Select">![Foo](https://studentmanager.blob.core.windows.net/resources/4da185d7-7017-466a-a865-e2527a00ac28.png)</a>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMTM4MjI4MzFdfQ==
+-->
