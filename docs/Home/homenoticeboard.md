@@ -4,7 +4,7 @@ Much like the old noticeboard where you pin a notice onto a board, the Noticeboa
 Follow these steps to create a new post:
 
 <a href="https://studentmanager.blob.core.windows.net/resources/7e3fc1b0-355b-4c18-9d83-5c38c4536697.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/7e3fc1b0-355b-4c18-9d83-5c38c4536697.png)
- 
+ <
   - Click on **Manage Posts**
       - Here you can change your notice to a Draft for later publishing
 
@@ -31,6 +31,6 @@ _*Note: You can use the **{1}** to display the attached files on the body of you
   - Click **Save** to save your notice
   Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODI4NTc0OSw5NjA5OTAyNTAsLTEzMT
+eyJoaXN0b3J5IjpbLTk3MTQ5NDUyOSw5NjA5OTAyNTAsLTEzMT
 M4MjI4MzFdfQ==
 -->
