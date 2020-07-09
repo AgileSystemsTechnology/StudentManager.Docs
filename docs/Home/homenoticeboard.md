@@ -28,7 +28,7 @@ Follow these steps to create a new post:
 	      - Click on **Select Files** and browse your computer for the file to be uploaded
 	      - Click on **Save**, the file will now be uploaded
 
-		   - To add a link:
+		 - To add a link:
 		      - Click on **Add Links**
 		      - Enter the URL you have copied into the **URL** section
 		      - Next to **Title** you can give your URL a name
@@ -37,19 +37,20 @@ Follow these steps to create a new post:
 _*Note: You can use the **{1}** to display the attached files on the body of your notice.  Each number represents the attachments in numerical order._
 
   - Click **Save** to save your notice
+
+<a href="https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png)
+   </a>
+
+Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
+
    <a href="https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png)
    </a>
 
-		Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
-
-   <a href="https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png)
-   </a>
-
-		Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
+You can now **Stop Managing Posts**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTc5NTUxNSw4MDUxODIyMDgsMTc2OT
-gzOTc4MywxODE5MjkzMjU2LDY1NzU1NzQwMCwtMTAxMDY0Mjk3
-OCwtNzIyNTEyMzc5LDk2MDk5MDI1MCwtMTMxMzgyMjgzMV19
+eyJoaXN0b3J5IjpbMTg3Mzg4NTI2LDgwNTE4MjIwOCwxNzY5OD
+M5NzgzLDE4MTkyOTMyNTYsNjU3NTU3NDAwLC0xMDEwNjQyOTc4
+LC03MjI1MTIzNzksOTYwOTkwMjUwLC0xMzEzODIyODMxXX0=
 -->
