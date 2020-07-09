@@ -7,7 +7,7 @@ pages:
 - Welcome: index.md
 
 - Login:
-    - Password Reset: Login/loginpasswordreset.md
+    - System Login: Login/loginpasswordreset.md
     
 - Home:
     - Noticeboard: Home/homenoticeboard.md
