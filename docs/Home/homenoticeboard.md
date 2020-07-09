@@ -3,7 +3,7 @@
 Much like the old noticeboard where you pin a notice onto a board, the Noticeboard works exactly the same.  Notices can be posted to only staff, only students or both.
 Follow these steps to create a new post:
 
-<a href="https://studentmanager.blob.core.windows.net/resources/4da185d7-7017-466a-a865-e2527a00ac28.png" rel="My Course Year Select">![Foo](https://studentmanager.blob.core.windows.net/resources/4da185d7-7017-466a-a865-e2527a00ac28.png)
+<a href="https://studentmanager.blob.core.windows.net/resources/7e3fc1b0-355b-4c18-9d83-5c38c4536697.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/7e3fc1b0-355b-4c18-9d83-5c38c4536697.png)
  
   - Click on **Manage Posts**
       - Here you can change your notice to a Draft for later publishing
@@ -31,6 +31,6 @@ _*Note: You can use the **{1}** to display the attached files on the body of you
   - Click **Save** to save your notice
   Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTY2MTQ1LDk2MDk5MDI1MCwtMTMxMz
-gyMjgzMV19
+eyJoaXN0b3J5IjpbMTUwODI4NTc0OSw5NjA5OTAyNTAsLTEzMT
+M4MjI4MzFdfQ==
 -->
