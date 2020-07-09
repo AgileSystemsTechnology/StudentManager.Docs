@@ -2,7 +2,7 @@
 
 ## Sending Single and Bulk Activation Links
 
-_This feature allows for the bulk or individual email notifications to give users access to the system
+*This feature allows for the bulk or individual email notifications to give users access to the system*
 
 -   Log in and select the **People** tab from the **Main Menu Bar**
 -   Select the **Send Activation Links** link
@@ -22,5 +22,5 @@ _This feature allows for the bulk or individual email notifications to give user
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjI0NDE1MywyMjc5MzM3MTRdfQ==
+eyJoaXN0b3J5IjpbODg2NzQzMTI4LDIyNzkzMzcxNF19
 -->
