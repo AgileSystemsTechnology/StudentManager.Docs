@@ -37,11 +37,19 @@ Follow these steps to create a new post:
 _*Note: You can use the **{1}** to display the attached files on the body of your notice.  Each number represents the attachments in numerical order._
 
   - Click **Save** to save your notice
-
+   <a href="https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png)
+   </a>
 
 		Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
+
+   <a href="https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png)
+   </a>
+
+		Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjU2OTQyNCw4MDUxODIyMDgsMTc2OT
+eyJoaXN0b3J5IjpbMjEyMTc5NTUxNSw4MDUxODIyMDgsMTc2OT
 gzOTc4MywxODE5MjkzMjU2LDY1NzU1NzQwMCwtMTAxMDY0Mjk3
 OCwtNzIyNTEyMzc5LDk2MDk5MDI1MCwtMTMxMzgyMjgzMV19
 -->
