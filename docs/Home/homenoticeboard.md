@@ -16,12 +16,13 @@ Follow these steps to create a new post:
 </a>   
 
    - Add a **Title** or heading for your post
-      - Choose whether you would want to publish this post to staff and students or either or by ticking or unticking the boxes
-      - Enter the description or information.  You can make use of the Styles, Formats, etc. to make your post more appealing.
-      - At the bottom of the section you can add a file or a link.  
+    - Choose whether you would want to publish this post to staff and students or either or by ticking or unticking the boxes
+    - Enter the description or information.  You can make use of the Styles, Formats, etc. to make your post more appealing.
+    - At the bottom of the section you can add a file or a link.  
 
    - To add a file:
-   <a href="https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png)
+
+<a href="https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/c32eafa2-e359-4483-a5bb-4f35ec2da2c1.png)
    </a>
 
 - Click on **Add Files**
@@ -50,8 +51,7 @@ You can now **Stop Managing Posts**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk2ODI0NDQsODA1MTgyMjA4LDE3Nj
-k4Mzk3ODMsMTgxOTI5MzI1Niw2NTc1NTc0MDAsLTEwMTA2NDI5
-NzgsLTcyMjUxMjM3OSw5NjA5OTAyNTAsLTEzMTM4MjI4MzFdfQ
-==
+eyJoaXN0b3J5IjpbMTIwMzQ0MTYxOCw4MDUxODIyMDgsMTc2OT
+gzOTc4MywxODE5MjkzMjU2LDY1NzU1NzQwMCwtMTAxMDY0Mjk3
+OCwtNzIyNTEyMzc5LDk2MDk5MDI1MCwtMTMxMzgyMjgzMV19
 -->
