@@ -44,14 +44,15 @@ _*Note: You can use the **{1}** to display the attached files on the body of you
 
 Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 
-   <a href="https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/ca728357-480e-4656-bbf3-a80656847572.png)
+   <a href="https://studentmanager.blob.core.windows.net/resources/d0466516-bdda-43ec-849b-a192c269ede6.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/d0466516-bdda-43ec-849b-a192c269ede6.png)
    </a>
 
 You can now **Stop Managing Posts**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDU5NzY0NCw4MDUxODIyMDgsMTc2OT
-gzOTc4MywxODE5MjkzMjU2LDY1NzU1NzQwMCwtMTAxMDY0Mjk3
-OCwtNzIyNTEyMzc5LDk2MDk5MDI1MCwtMTMxMzgyMjgzMV19
+eyJoaXN0b3J5IjpbLTIwMTY4MzEzODAsMTAwNDU5NzY0NCw4MD
+UxODIyMDgsMTc2OTgzOTc4MywxODE5MjkzMjU2LDY1NzU1NzQw
+MCwtMTAxMDY0Mjk3OCwtNzIyNTEyMzc5LDk2MDk5MDI1MCwtMT
+MxMzgyMjgzMV19
 -->
