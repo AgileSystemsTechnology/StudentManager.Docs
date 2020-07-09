@@ -17,7 +17,6 @@ Follow these steps to create a new post:
 
       - Add a **Title** or heading for your post
       - Choose whether you would want to publish this post to staff and students or either or by ticking or unticking the boxes
-  in the area below.
       - Enter the description or information.  You can make use of the Styles, Formats, etc. to make your post more appealing.
       - At the bottom of the section you can add a file or a link.  
 
@@ -37,7 +36,7 @@ _*Note: You can use the **{1}** to display the attached files on the body of you
   - Click **Save** to save your notice
   Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyOTE5OTE5LDE4MTkyOTMyNTYsNjU3NT
-U3NDAwLC0xMDEwNjQyOTc4LC03MjI1MTIzNzksOTYwOTkwMjUw
-LC0xMzEzODIyODMxXX0=
+eyJoaXN0b3J5IjpbMTc2OTgzOTc4MywxODE5MjkzMjU2LDY1Nz
+U1NzQwMCwtMTAxMDY0Mjk3OCwtNzIyNTEyMzc5LDk2MDk5MDI1
+MCwtMTMxMzgyMjgzMV19
 -->
