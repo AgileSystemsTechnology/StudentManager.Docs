@@ -9,7 +9,7 @@ Follow these steps to create a new post:
   - Click on **Manage Posts**
    
  <a href="https://studentmanager.blob.core.windows.net/resources/fd1ecd1b-ea1a-4378-99ea-a7e80915db5f.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/fd1ecd1b-ea1a-4378-99ea-a7e80915db5f.png)
-   
+</a>   
   - Click on **Add Notice**
       - Add a **Title** or heading for your post
       - Choose whether you would want to publish this post to staff and students or either or by ticking or unticking the boxes
@@ -33,6 +33,7 @@ _*Note: You can use the **{1}** to display the attached files on the body of you
   - Click **Save** to save your notice
   Here you can choose to either **publish the post or not**.  If you choose not to publish straight away, your post will be saved into **Draft Notices**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NTU3NDAwLC0xMDEwNjQyOTc4LC03Mj
-I1MTIzNzksOTYwOTkwMjUwLC0xMzEzODIyODMxXX0=
+eyJoaXN0b3J5IjpbMTgxOTI5MzI1Niw2NTc1NTc0MDAsLTEwMT
+A2NDI5NzgsLTcyMjUxMjM3OSw5NjA5OTAyNTAsLTEzMTM4MjI4
+MzFdfQ==
 -->
