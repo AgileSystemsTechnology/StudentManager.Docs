@@ -6,7 +6,7 @@ Follow these steps to create a new post:
 <a href="https://studentmanager.blob.core.windows.net/resources/7e3fc1b0-355b-4c18-9d83-5c38c4536697.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/7e3fc1b0-355b-4c18-9d83-5c38c4536697.png)
  </a>
  
-  - Click on **Manage Posts**
+ - Click on **Manage Posts**
    
  <a href="https://studentmanager.blob.core.windows.net/resources/fd1ecd1b-ea1a-4378-99ea-a7e80915db5f.png" rel="Manage Posts">![Foo](https://studentmanager.blob.core.windows.net/resources/fd1ecd1b-ea1a-4378-99ea-a7e80915db5f.png)
 </a>   
@@ -51,7 +51,7 @@ You can now **Stop Managing Posts**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzQ0MTYxOCw4MDUxODIyMDgsMTc2OT
+eyJoaXN0b3J5IjpbMTAwNDU5NzY0NCw4MDUxODIyMDgsMTc2OT
 gzOTc4MywxODE5MjkzMjU2LDY1NzU1NzQwMCwtMTAxMDY0Mjk3
 OCwtNzIyNTEyMzc5LDk2MDk5MDI1MCwtMTMxMzgyMjgzMV19
 -->
