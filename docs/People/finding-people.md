@@ -11,7 +11,7 @@ How to find a user and view their profile.
 -   Click on Search
 -   In line with your search results, click on **View** found on the right hand side of your screen to preview the student or staff profile
 
-[![](https://downloads.intercomcdn.com/i/o/103831629/b0c3cb90868fb77e1fee2af5/image.png)](https://downloads.intercomcdn.com/i/o/103831629/b0c3cb90868fb77e1fee2af5/image.png)
+[![](https://studentmanager.blob.core.windows.net/resources/d5068876-79c5-458a-aa92-1ab25ba80b74.png)](https://studentmanager.blob.core.windows.net/resources/d5068876-79c5-458a-aa92-1ab25ba80b74.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTQ2NTczMCwtNjM3NDE3NDBdfQ==
+eyJoaXN0b3J5IjpbMTAxODgwNzI2MCwtNjM3NDE3NDBdfQ==
 -->
