@@ -3,7 +3,7 @@
 How to find a user and view their profile. 
 
 
-## **How to find a Staff member or a Student**
+## **How to find an Employee, Student, Applicant or Lead**
 
 -   Click on the **People** tab from the **Main Menu** bar
 -   Click on the **search** input box
@@ -13,5 +13,5 @@ How to find a user and view their profile.
 
 [![](https://downloads.intercomcdn.com/i/o/103831629/b0c3cb90868fb77e1fee2af5/image.png)](https://downloads.intercomcdn.com/i/o/103831629/b0c3cb90868fb77e1fee2af5/image.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzQxNzQwXX0=
+eyJoaXN0b3J5IjpbLTIwNTk5MDY4MDEsLTYzNzQxNzQwXX0=
 -->
