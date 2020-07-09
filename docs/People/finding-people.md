@@ -18,12 +18,11 @@ How to find a user and view their profile, searching with tags.
 
 -   Click on the **People** tab from the **Main Menu** bar
 -   Click on the **Tags** tab
--   Choose a user context
--   Click on the **search** input box
--   Type in the first three characters or more of their ID number, First Name, Last Name or Student/Employee Code
--   Click on Search
+-   Choose a user context using the tabs **Student**, **Employee**, **Leads** or **Applications**
+-   In the input box, select the tags which have been created and allocated to users
+-   Click on **Search**
 -   In line with your search results, click on **View** found on the right hand side of your screen to preview the student or staff profile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NzE0NTM3LC0xNDYyODY2OTcsLTQyMz
-I2Mzg4NiwtNjM3NDE3NDBdfQ==
+eyJoaXN0b3J5IjpbLTEzOTQ4MzMxNDAsLTE0NjI4NjY5NywtND
+IzMjYzODg2LC02Mzc0MTc0MF19
 -->
