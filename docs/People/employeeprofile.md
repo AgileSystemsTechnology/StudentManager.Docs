@@ -9,6 +9,7 @@ Here we have all the personal and detailed information regarding the employee an
 ## **Dashboard**
 
 
+
 ## **Journals**
 
   - The Journal tab serve as permanent and transparent forums for the presentation, scrutiny, and discussion of research, to record them click on **Add Journal** and **Create New** and enter the following information.  
@@ -68,5 +69,6 @@ _*Note: The Journal is also published to EduDex_
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzY1NDE0MSwxNTYzNTIyMDA0XX0=
+eyJoaXN0b3J5IjpbNzkzMjU3MDczLC03Mzc2NTQxNDEsMTU2Mz
+UyMjAwNF19
 -->
