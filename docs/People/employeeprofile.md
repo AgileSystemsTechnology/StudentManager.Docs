@@ -67,11 +67,12 @@ Before you can add an employee record, you first need to have a company set up. 
 	- Most recent appointment at the institution was on a temporary basis
 	
 - **Highest Qualification** : Choose from the drop-down list
-- **FTE** :  Enter the amount of hours worked by the employee on a full-time basis, but in terms of a value, e.g. 1 for someone who spends 100% of working hours working for the insitution or 0.5 for someone who spends about 50% of your insitutions working hours, working for you
-  - Company Name
-    - If the user is not from the same institution, enter the name of the Company where the user is employed
-  - Is Internal
-    - This box is used to indicated records of employment at the institution.  For example: if you were trying to keep a record of each institution the staff member has worked at in the past, then all the records could be captured here but only the ones for their employment at the current institution wil be ticked as "Is Internal"
+-
+- **FTE** :  Enter the amount of hours worked by the employee on a full-time basis, but in terms of a value, e.g. 1 for someone who spends 100% of working hours working for the institution or 0.5 for someone who spends about 50% of your insitutions working hours, working for you
+
+- **Company Name**: If the user is not from the same institution, enter the name of the Company where the user is employed, if they work directly for the institution, then select type in the Name of the Institution
+
+- Is Internal: This box is used to indicated records of employment at the institution.  For example: if you were trying to keep a record of each institution the staff member has worked at in the past, then all the records could be captured here but only the ones for their employment at the current institution wil be ticked as "Is Internal"
     
 
 ## **Digital Signature**
@@ -82,6 +83,6 @@ Before you can add an employee record, you first need to have a company set up. 
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIwMDA4MzEsLTEwNjU2MTU2MjIsLT
+eyJoaXN0b3J5IjpbLTE2ODk0MTg3ODAsLTEwNjU2MTU2MjIsLT
 czNzY1NDE0MSwxNTYzNTIyMDA0XX0=
 -->
