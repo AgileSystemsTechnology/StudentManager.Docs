@@ -72,7 +72,7 @@ Before you can add an employee record, you first need to have a company set up. 
 
 - **Company Name**: If the user is not from the same institution, enter the name of the Company where the user is employed, if they work directly for the institution, then select type in the Name of the Institution
 
-- Is Internal: This box is used to indicated records of employment at the institution.  For example: if you were trying to keep a record of each institution the staff member has worked at in the past, then all the records could be captured here but only the ones for their employment at the current institution wil be ticked as "Is Internal"
+- **Is Internal**: This box is used to indicated records of employment at the institution.  For example: if you were trying to keep a record of each institution the staff member has worked at in the past, then all the records could be captured here but only the ones for their employment at the current institution will be ticked as "Is Internal"
     
 
 ## **Digital Signature**
@@ -83,6 +83,6 @@ Before you can add an employee record, you first need to have a company set up. 
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk0MTg3ODAsLTEwNjU2MTU2MjIsLT
-czNzY1NDE0MSwxNTYzNTIyMDA0XX0=
+eyJoaXN0b3J5IjpbNjc5NTI0NjY4LC0xMDY1NjE1NjIyLC03Mz
+c2NTQxNDEsMTU2MzUyMjAwNF19
 -->
