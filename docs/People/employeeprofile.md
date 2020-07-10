@@ -67,8 +67,7 @@ Before you can add an employee record, you first need to have a company set up. 
 	- Most recent appointment at the institution was on a temporary basis
 	
 - **Highest Qualification** : Choose from the drop-down list
-- FTE
-    - Enter the amount of hours worked by the employee on a full-time basis
+- **FTE** :  Enter the amount of hours worked by the employee on a full-time basis, but in terms of a value, e.g. 1 for someone who spends 100% of working hours working for the insitution or 0.5 for someone who spends about 50% of your insitutions working hours, working for you
   - Company Name
     - If the user is not from the same institution, enter the name of the Company where the user is employed
   - Is Internal
@@ -83,6 +82,6 @@ Before you can add an employee record, you first need to have a company set up. 
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzE3ODcwOCwtMTA2NTYxNTYyMiwtNz
-M3NjU0MTQxLDE1NjM1MjIwMDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjIwMDA4MzEsLTEwNjU2MTU2MjIsLT
+czNzY1NDE0MSwxNTYzNTIyMDA0XX0=
 -->
