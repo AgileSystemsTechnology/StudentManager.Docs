@@ -27,10 +27,10 @@
 
 -   When you are presented with the **Send Activation Links - Success** page, you're done.
   
-[![](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)](https://studentmanager.blob.core.windows.net/resources/25f6eae9-4760-4e97-a8c9-4bc818f38664.png)
+[![](https://studentmanager.blob.core.windows.net/resources/25f6eae9-4760-4e97-a8c9-4bc818f38664.png)](https://studentmanager.blob.core.windows.net/resources/25f6eae9-4760-4e97-a8c9-4bc818f38664.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mzc2MjAxNCw2NjA3NDc2OTcsODg2Nz
-QzMTI4LDIyNzkzMzcxNF19
+eyJoaXN0b3J5IjpbLTE1OTM0OTA3MDEsNjYwNzQ3Njk3LDg4Nj
+c0MzEyOCwyMjc5MzM3MTRdfQ==
 -->
