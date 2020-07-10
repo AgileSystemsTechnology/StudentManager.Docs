@@ -9,18 +9,19 @@ Here we have all the personal and detailed information regarding the employee an
 **Dashboard**
 
 
-- **Journals** 
-  - The Journal tab serve as permanent and transparent forums for the presentation, scrutiny, and discussion of research, to record them click on **Add Journal** and **Create New** and enter the following information.  _*Note: The Journal is also published to EduDex_
-    - Name:  Enter the name of the journal. 
-    - Article Title:  Enter the Title of the journal or article
-    - Accredited:  Enter the accreditation information here.  (DHET)
-    - Issue: Enter the date or volume of the article
-    - ISSN: Enter the 8 digit code used to identify the journal
-    - Year:  Enter the year of which the journal was published
-    - Volume:  Enter the volume or issue number of the journal
-    - CESM: Choose the subject from any of the drop own list
+**Journals** 
+  - The Journal tab serve as permanent and transparent forums for the presentation, scrutiny, and discussion of research, to record them click on **Add Journal** and **Create New** and enter the following information.  
+_*Note: The Journal is also published to EduDex_
+- Name:  Enter the name of the journal. 
+- Article Title:  Enter the Title of the journal or article
+- Accredited:  Enter the accreditation information here.  (DHET)
+- Issue: Enter the date or volume of the article
+- ISSN: Enter the 8 digit code used to identify the journal
+- Year:  Enter the year of which the journal was published
+- Volume:  Enter the volume or issue number of the journal
+- CESM: Choose the subject from any of the drop own list
     
-- **System Access**
+**System Access**
   - This feature allows you to give access to staff who work in different areas of your institution. i.e., Finance, Library and Student Academic affairs.  Click on the **Change this** button to allow the staff member to view either all modules or only the modules the staff member have been allocated to as lecturer or an assessor.
   - To set this for a group of people, follow the instructions from the Settings page (http://help.studentmanager.co.za/en/latest/More/Settings/rolegroups/)
     - Click on **Edit** to change the settings
@@ -60,5 +61,5 @@ Here we have all the personal and detailed information regarding the employee an
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzUyMjAwNF19
+eyJoaXN0b3J5IjpbNzg5NDEzNzM2LDE1NjM1MjIwMDRdfQ==
 -->
