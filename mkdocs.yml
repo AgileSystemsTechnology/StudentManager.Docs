@@ -21,8 +21,7 @@ pages:
     - User Account Activation: People/activationlinks.md
     
 - People - Employee:
-    - Finding People: People/finding-people.md
-    - User Account Activation: People/activationlinks.md
+    - Employee Profile: People/employeeprofile.md
 
 - People - Student:
     - Finding People: People/finding-people.md
