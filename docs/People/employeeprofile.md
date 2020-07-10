@@ -37,9 +37,8 @@ Click on the **Change this** button to allow the staff member to view either all
 ## **Employment Records**
 
 Before you can add an employee record, you first need to have a company set up.  To do this, follow these step by step instructions: 
- 
-The company data is used in two ways:
-    - the employee is part of a company which is also the institution, therefore, the institution details also needs to be added again under **More** > **Companies**, as they are the employer.
+ - **Step 1** select **More** > **Companies**
+ - **Step 2
     - if an employee is a person from a company who only comes in to do limited activities such as meet with post grade students, etc. This means the user is employed by an outside company and this is the information used here.
   - Job Title
     - Enter the job title of the employee.  Example: Senior Lecturer
@@ -71,6 +70,6 @@ The company data is used in two ways:
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzEwMDM2NCwtMTA2NTYxNTYyMiwtNz
+eyJoaXN0b3J5IjpbMTQ4OTkwODI3NSwtMTA2NTYxNTYyMiwtNz
 M3NjU0MTQxLDE1NjM1MjIwMDRdfQ==
 -->
