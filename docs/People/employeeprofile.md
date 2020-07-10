@@ -61,10 +61,13 @@ Before you can add an employee record, you first need to have a company set up. 
 - **Employment Status** : Choose from the drop-down list:-  
 	- Full-time employment status for most recent employment at the institution
 	 - Part- time employment status for most recent employment at the institution
-- Appointment Type ?Choose from the drop down list: Most recent appointment at the institution was on a permanent or temporary basis
-  - Highest Qualificaiton
-    - Choose from the drop down list
-  - FTE
+
+- **Appointment Type** : Choose from the drop-down list:- 
+	- Most recent appointment at the institution was on a permanent basis
+	- Most recent appointment at the institution was on a temporary basis
+	
+- **Highest Qualification** : Choose from the drop-down list
+- FTE
     - Enter the amount of hours worked by the employee on a full-time basis
   - Company Name
     - If the user is not from the same institution, enter the name of the Company where the user is employed
@@ -80,6 +83,6 @@ Before you can add an employee record, you first need to have a company set up. 
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDc1MjAwNCwtMTA2NTYxNTYyMiwtNz
+eyJoaXN0b3J5IjpbMTUyMzE3ODcwOCwtMTA2NTYxNTYyMiwtNz
 M3NjU0MTQxLDE1NjM1MjIwMDRdfQ==
 -->
