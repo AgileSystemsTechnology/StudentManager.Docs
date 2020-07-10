@@ -29,16 +29,15 @@ _*Note: The Journal is also published to EduDex_
 
 This feature allows you to give access to staff who work in different areas of your institution. i.e., Finance, Library and Student Academic affairs.  
 Click on the **Change this** button to allow the staff member to view either all modules or only the modules the staff member have been allocated to as lecturer or an assessor.
-  - To set this for a group of people, follow the instructions from the Settings page (http://help.studentmanager.co.za/en/latest/More/Settings/rolegroups/)
-    - Click on **Edit** to change the settings
-    - If groups have been set up, select any of the groups displayed or toggle between subgroups to allow or disallow certain functions
-    - Click on **Save** to commit the changes
+- Click on **Edit** to change the settings
+- Toggle between system access for the various system subgroups, to allow or disallow certain functions
+- Click on **Save** to commit the changes
     
 
 ## **Employment Records**
 
-- Before you can add an employee record, you first need to have a company set up.  To do this, follow these step by step instructions:  
-  - The company data is used in two ways:
+Before you can add an employee record, you first need to have a company set up.  To do this, follow these step by step instructions:  
+The company data is used in two ways:
     - the employee is part of a company which is also the institution, therefore, the institution details also needs to be added again under [Companies](http://help.studentmanager.co.za/en/latest/More/Companies/AddingCompanies/) as they are the employer.
     - if an employee is a person from a company who only comes in to do limited activiteis such as meet with post grade students, etc. This means the user is employed by an outside company and this is the information used here.
   - Job Title
@@ -71,6 +70,6 @@ Click on the **Change this** button to allow the staff member to view either all
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDM1NTc5MywtNzM3NjU0MTQxLDE1Nj
-M1MjIwMDRdfQ==
+eyJoaXN0b3J5IjpbLTExMzc3Mzg5NzYsLTczNzY1NDE0MSwxNT
+YzNTIyMDA0XX0=
 -->
