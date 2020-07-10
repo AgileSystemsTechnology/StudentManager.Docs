@@ -7,7 +7,7 @@
 -   Log in and select the **People** tab from the **Main Menu Bar**
 -   Select the **Send Activation Links** link
 
-
+[![](https://studentmanager.blob.core.windows.net/resources/31c49056-bbe2-4425-8a6d-501490961c77.png)](https://studentmanager.blob.core.windows.net/resources/31c49056-bbe2-4425-8a6d-501490961c77.png)
 
 -   When the Send Activation Links page loads, select the **Search** link
 -   Select the **_search input box_**_,_ once the **_Select Student_** modal loads
@@ -24,6 +24,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ1MjQwNTUsODg2NzQzMTI4LDIyNz
-kzMzcxNF19
+eyJoaXN0b3J5IjpbMTIxNzE5ODUwMCw4ODY3NDMxMjgsMjI3OT
+MzNzE0XX0=
 -->
