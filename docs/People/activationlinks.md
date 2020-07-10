@@ -19,8 +19,7 @@
 -   Select **Add**, in line with the desired user. _Please note that multiple users can be added_
 -   Once all the desired users have been added, select **Close**, to close the **Select the student** modal Screen
 
-[![](https://studentmanager.blob.core.windows.net/resources/946d7671-0e4c-4666-b804-fb506ddf1a0e.png]
-(https://studentmanager.blob.core.windows.net/resources/946d7671-0e4c-4666-b804-fb506ddf1a0e.png)
+[![](https://studentmanager.blob.core.windows.net/resources/946d7671-0e4c-4666-b804-fb506ddf1a0e.png](https://studentmanager.blob.core.windows.net/resources/946d7671-0e4c-4666-b804-fb506ddf1a0e.png)
 
 -   To send the activation links, select the **Send Activation Links** button
 -   When you are presented with the **Send Activation Links - Success** page, you're done.
@@ -31,6 +30,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MjExMzIxLDY2MDc0NzY5Nyw4ODY3ND
-MxMjgsMjI3OTMzNzE0XX0=
+eyJoaXN0b3J5IjpbLTE1NzI2NTA4NDEsNjYwNzQ3Njk3LDg4Nj
+c0MzEyOCwyMjc5MzM3MTRdfQ==
 -->
