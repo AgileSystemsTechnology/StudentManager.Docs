@@ -2,7 +2,7 @@
 
 To create a staff profile, follow the step by step instructions [here](http://help.studentmanager.co.za/en/latest/People/adding-people/)
 
-After a profile has been created, you can now edit the profile with more detailed information.  Below are all the sections with their description, explantaion and how to edit:
+After a profile has been created, you can now edit the profile with more detailed information.  Below are all the sections with their description, explanation and how to edit:
 
 ## **General Tab**
 This tab is used by staff and students - please click [HERE] for more information
@@ -63,3 +63,6 @@ Here we have all the personal and detailed information regarding the employee an
      - A new window will appear, click on **Select Files** (allocate the file from your computer)
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTQwMzg5OTcxXX0=
+-->
