@@ -28,7 +28,7 @@ _*Note: The Journal is also published to EduDex_
 ## **System Access**
 
 This feature allows you to give access to staff who work in different areas of your institution. i.e., Finance, Library and Student Academic affairs.  
-Click on the **Change this** button to allow the staff member to view either all modules or only the modules the staff member have been allocated to as lecturer or an assessor.
+- Click on the **Change this** button to allow the staff member to view either all modules or only the modules the staff member have been allocated to as lecturer or an assessor.
 - Click on **Edit** to change the settings
 - Toggle between system access for the various system subgroups, to allow or disallow certain functions
 - Click on **Save** to commit the changes
@@ -37,6 +37,7 @@ Click on the **Change this** button to allow the staff member to view either all
 ## **Employment Records**
 
 Before you can add an employee record, you first need to have a company set up.  To do this, follow these step by step instructions: 
+
  - **Step 1** select **More** > **Companies**, then select **Add**
  - **Step 2** add your institution details and select **Save**
  - **Step 3** return to the employee's profile where you want to add the employment record
@@ -83,6 +84,6 @@ Before you can add an employee record, you first need to have a company set up. 
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NTI0NjY4LC0xMDY1NjE1NjIyLC03Mz
-c2NTQxNDEsMTU2MzUyMjAwNF19
+eyJoaXN0b3J5IjpbLTEzOTcxNzM4OTcsLTEwNjU2MTU2MjIsLT
+czNzY1NDE0MSwxNTYzNTIyMDA0XX0=
 -->
