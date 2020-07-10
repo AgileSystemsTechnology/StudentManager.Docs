@@ -38,18 +38,19 @@ Click on the **Change this** button to allow the staff member to view either all
 
 Before you can add an employee record, you first need to have a company set up.  To do this, follow these step by step instructions: 
  - **Step 1** select **More** > **Companies**, then select **Add**
- - **Step 2** add your insitution details and select **Save**
- - **Step 3** return to the employee's profile where you want to add the employment reco
-  - Job Title
-    - Enter the job title of the employee.  Example: Senior Lecturer
-  - Appointment Date
-    - Enter the date the user started with the institution or company
-  - Termination Date
-    - Enter the date when the stopped being a staff member or when the employment was terminated
+ - **Step 2** add your institution details and select **Save**
+ - **Step 3** return to the employee's profile where you want to add the employment record
+
+## Add Employment Record
+
+ - **Job Title** : Enter the job title of the employee.  Example: Senior Lecturer
+- Appointment Date : Enter the date the user started with the institution or company
+- Termination Date
+- Enter the date when the stopped being a staff member or when the employment was terminated
   - Staff Category
     - Choose from the drop down list:  Crafts/Trades, Executive/Administration/Management Professional, Instructional/Research professional, Non-professional administration, Service, Specialised/Support professional or Technical
   - Employment Status
-    - Choose from the drop down list:  Full-time or Part- time employemnt status for most recent employment at the institution
+    - Choose from the drop down list:  Full-time or Part- time employment status for most recent employment at the institution
   - Appointment Type
     - Choose from the drop down list: Most recent appointment at the institution was on a permanent or temporary basis
   - Highest Qualificaiton
@@ -70,6 +71,6 @@ Before you can add an employee record, you first need to have a company set up. 
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTgxNzExNSwtMTA2NTYxNTYyMiwtNz
+eyJoaXN0b3J5IjpbLTU5NTA2MTAwOSwtMTA2NTYxNTYyMiwtNz
 M3NjU0MTQxLDE1NjM1MjIwMDRdfQ==
 -->
