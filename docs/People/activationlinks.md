@@ -10,6 +10,9 @@
 [![](https://studentmanager.blob.core.windows.net/resources/31c49056-bbe2-4425-8a6d-501490961c77.png)](https://studentmanager.blob.core.windows.net/resources/31c49056-bbe2-4425-8a6d-501490961c77.png)
 
 -   When the Send Activation Links page loads, select the **Search** link
+
+[![](https://studentmanager.blob.core.windows.net/resources/abd72cfb-907a-4f99-914d-322b32f06b00.png)](https://studentmanager.blob.core.windows.net/resources/abd72cfb-907a-4f99-914d-322b32f06b00.png)
+
 -   Select the **_search input box_**_,_ once the **_Select Student_** modal loads
 -   In the search input, type the first three characters of the users First Name, Last Name or User Code
 -   Select **Search**
@@ -24,6 +27,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzE5ODUwMCw4ODY3NDMxMjgsMjI3OT
-MzNzE0XX0=
+eyJoaXN0b3J5IjpbNjYwNzQ3Njk3LDg4Njc0MzEyOCwyMjc5Mz
+M3MTRdfQ==
 -->
