@@ -22,6 +22,10 @@
 [![](https://studentmanager.blob.core.windows.net/resources/946d7671-0e4c-4666-b804-fb506ddf1a0e.png)](https://studentmanager.blob.core.windows.net/resources/946d7671-0e4c-4666-b804-fb506ddf1a0e.png)
 
 -   To send the activation links, select the **Send Activation Links** button
+
+[![](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)
+
+
 -   When you are presented with the **Send Activation Links - Success** page, you're done.
 
   
@@ -30,6 +34,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTQyNTk5Niw2NjA3NDc2OTcsODg2Nz
-QzMTI4LDIyNzkzMzcxNF19
+eyJoaXN0b3J5IjpbNTE3NjI0MTEsNjYwNzQ3Njk3LDg4Njc0Mz
+EyOCwyMjc5MzM3MTRdfQ==
 -->
