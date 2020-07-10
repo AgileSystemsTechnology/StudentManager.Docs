@@ -44,13 +44,18 @@ Before you can add an employee record, you first need to have a company set up. 
 ## Add Employment Record
 
  - **Job Title** : Enter the job title of the employee.  Example: Senior Lecturer
-- Appointment Date : Enter the date the user started with the institution or company
-- Termination Date
-- Enter the date when the stopped being a staff member or when the employment was terminated
-  - Staff Category
-    - Choose from the drop down list:  Crafts/Trades, Executive/Administration/Management Professional, Instructional/Research professional, Non-professional administration, Service, Specialised/Support professional or Technical
-  - Employment Status
-    - Choose from the drop down list:  Full-time or Part- time employment status for most recent employment at the institution
+- **Appointment Date** : Enter the date the user started with the institution or company
+- **Termination Date** : Enter the date when the stopped being a staff member or when the employment was terminated
+- **Staff Category** : Choose from the drop down list:-  
+	- Crafts/Trades
+	- Executive/Administration/Management Professional
+	- Instructional/Research professional
+	- Non-professional administration
+	- Service
+	- Specialised/Support professional
+	- Technical
+  - Employment Status : Choose from the drop down list:-  
+	  - Full-time or Part- time employment status for most recent employment at the institution
   - Appointment Type
     - Choose from the drop down list: Most recent appointment at the institution was on a permanent or temporary basis
   - Highest Qualificaiton
@@ -71,6 +76,6 @@ Before you can add an employee record, you first need to have a company set up. 
      - Now that you have chosed the file to upload, click on **Save** to commit the file
    _(Note: the image size must be 4cm by 1cm for best displayed on reports)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTA2MTAwOSwtMTA2NTYxNTYyMiwtNz
-M3NjU0MTQxLDE1NjM1MjIwMDRdfQ==
+eyJoaXN0b3J5IjpbNTM4NTg4OTA3LC0xMDY1NjE1NjIyLC03Mz
+c2NTQxNDEsMTU2MzUyMjAwNF19
 -->
