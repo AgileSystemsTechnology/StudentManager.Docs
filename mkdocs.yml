@@ -15,5 +15,25 @@ pages:
 - People:
     - Finding People: People/finding-people.md
     - User Account Activation: People/activationlinks.md
+    
+- People - User:
+    - Finding People: People/finding-people.md
+    - User Account Activation: People/activationlinks.md
+    
+- People - Employee:
+    - Finding People: People/finding-people.md
+    - User Account Activation: People/activationlinks.md
+
+- People - Student:
+    - Finding People: People/finding-people.md
+    - User Account Activation: People/activationlinks.md
+
+- People - Applicant:
+    - Finding People: People/finding-people.md
+    - User Account Activation: People/activationlinks.md
+    
+- People - Lead:
+    - Finding People: People/finding-people.md
+    - User Account Activation: People/activationlinks.md
 
 theme: readthedocs
