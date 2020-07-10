@@ -23,17 +23,14 @@
 
 -   To send the activation links, select the **Send Activation Links** button
 
-[![](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)
-
+[![](https://studentmanager.blob.core.windows.net/resources/2e3f50c5-9e87-4100-b8fa-7e9959902b7f.png)](https://studentmanager.blob.core.windows.net/resources/2e3f50c5-9e87-4100-b8fa-7e9959902b7f.png)
 
 -   When you are presented with the **Send Activation Links - Success** page, you're done.
-
   
-
-[![](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)
+[![](https://downloads.intercomcdn.com/i/o/103835186/10f28a10e528148e2d83ad09/image.png)](https://studentmanager.blob.core.windows.net/resources/25f6eae9-4760-4e97-a8c9-4bc818f38664.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NjI0MTEsNjYwNzQ3Njk3LDg4Njc0Mz
-EyOCwyMjc5MzM3MTRdfQ==
+eyJoaXN0b3J5IjpbLTM1Mzc2MjAxNCw2NjA3NDc2OTcsODg2Nz
+QzMTI4LDIyNzkzMzcxNF19
 -->
